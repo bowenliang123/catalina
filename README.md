@@ -1,8 +1,8 @@
 # Catalina (Demo)
 ----
 
-+ Requirement:
-    + Java 8 JRE/JDK
++ Requirements:
+    + Java 8 JDK
     + Maven
 
 
