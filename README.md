@@ -18,6 +18,8 @@
         + expected exception in invalid inputs
         + full execution from 1 to 100
 
++ Proper Git ignored file list for Java based project
+
 + Dynamic and changale strategies with reused looping execution structure
 
     + package `com.bowen.catalina.executor` for loop and execution framework
